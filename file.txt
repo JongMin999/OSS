@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Changes in master
+=======
+Feature work
+>>>>>>> feature
+More changes in master
